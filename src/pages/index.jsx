@@ -1,4 +1,5 @@
-import Home from "./Home";
+import Iphone from './Iphone'
+import GsapHome from "./Home";
 import GsapTo from "./GsapTo";
 import GsapFrom from "./GsapFrom";
 import GsapFromTo from "./GsapFromTo";
@@ -11,9 +12,10 @@ export {
   GsapTo,
   GsapFrom,
   GsapFromTo,
-  Home,
+  GsapHome,
   GsapTimeline,
   GsapScrollTrigger,
   GsapStagger,
   GsapText,
+  Iphone,
 };
