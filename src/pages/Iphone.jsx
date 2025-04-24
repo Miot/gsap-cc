@@ -3,6 +3,8 @@ import Hero from "../components/Hero";
 import Highlights from "../components/Highlights";
 import Model from "../components/Model";
 import Features from "../components/Features";
+import HowItWorks from "../components/HowItWorks";
+
 const Iphone = () => {
   return (
     <main className="bg-black">
@@ -11,6 +13,7 @@ const Iphone = () => {
       <Highlights></Highlights>
       <Model></Model>
       <Features></Features>
+      <HowItWorks></HowItWorks>
     </main>
   );
 };
