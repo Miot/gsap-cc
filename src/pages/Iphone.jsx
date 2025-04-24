@@ -4,6 +4,7 @@ import Highlights from "../components/Highlights";
 import Model from "../components/Model";
 import Features from "../components/Features";
 import HowItWorks from "../components/HowItWorks";
+import Footer from "../components/Footer";
 
 const Iphone = () => {
   return (
@@ -14,6 +15,7 @@ const Iphone = () => {
       <Model></Model>
       <Features></Features>
       <HowItWorks></HowItWorks>
+      <Footer></Footer>
     </main>
   );
 };
